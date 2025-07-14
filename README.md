@@ -37,3 +37,9 @@ pnpm preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+## Icons
+
+## Icons
+
+This project uses [Icones](https://icones.js.org/) with the [Nuxt Icon module](https://icones.netlify.app/guide/nuxt-module.html).
